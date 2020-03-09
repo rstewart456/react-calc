@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "C:\\Users\\rstew\\Documents\\projects\\codewars"
+    },
+    {
+      "name": "Hacker-Rank",
+      "path": "C:\\Users\\rstew\\Documents\\projects\\Hacker-Rank"
+    },
+    {
+      "name": "website",
+      "path": "C:\\Users\\rstew\\Documents\\projects\\website"
+    },
+    {
+      "name": "rstewart456.github.io",
+      "path": "C:\\Users\\rstew\\Documents\\projects\\website\\rstewart456.github.io"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "website",
+    "git.ignoreLimitWarning": true,
+    "editor.formatOnSave": true,
+    "git.confirmSync": false
+  }
+}
